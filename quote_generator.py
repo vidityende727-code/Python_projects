@@ -34,7 +34,7 @@ while True:
     elif choice == "3": 
         print("\nAll quotes:") 
         for i, q in enumerate(quotes): 
-            print(f'\n{i + 1}.\"{q["quote"]}\"')  
+            print(f'\n{i + 1}.\"{q["quote"]}\"')   
             print(f"- {q['author']}") 
     elif choice == "4": 
         print("Goodbye!") 
