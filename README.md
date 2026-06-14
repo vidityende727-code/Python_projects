@@ -59,7 +59,3 @@ Displays a random motivational quote on every run.
 ## How to run any project
 ```bash
 python filename.py
-```
-
-## Author
-**Vidit** | [GitHub](https://github.com/vidityende727-code)
